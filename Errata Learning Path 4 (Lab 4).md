@@ -1,7 +1,7 @@
 # MS-102T00 Microsoft 365 Administrator - Learning Path 4 Errata (Lab 4)
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE LABS EACH DAY
 ### Note - To see the entire screen ensure you use the full screen view option
-## Learning Path 4 Lab 4:  (~35 Minutes)
+## Learning Path 4 Lab 4:  (~75 Minutes)
 
 ### Exercise 1 - Manage secure user access
 

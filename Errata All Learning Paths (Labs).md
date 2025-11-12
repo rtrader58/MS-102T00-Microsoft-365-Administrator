@@ -102,7 +102,7 @@ Step 14: Identify and copy and paste the ID for the research group in Step 13. I
 Step 15: Identify and copy and paste the ID for the research group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
 Step 17: Identify and copy and paste the ID for the Manufacturing group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
 
-## Learning Path 4 Lab 4:  (~35 Minutes)
+## Learning Path 4 Lab 4:  (~75 Minutes)
 
 ### Exercise 1 - Manage secure user access
 
@@ -164,3 +164,18 @@ Step 4: If prompted respond to the MFA challenge <br>
 Task 4 - Approve the request for the Intune Admin role
 Step 8: If prompted respond to the MFA challenge <br>
 Step 18: If prompted respond to the MFA challenge <br>
+
+## Learning Path 5 Lab 5: (~90 Minutes)
+
+### Exercise 1 - Implement a Safe Attachments policy
+
+Task 1 - Create a Safe Attachment policy and turn on Microsoft Defender for Office 365 <br>
+No Errata <br>
+
+### Exercise 2 - Implement a Safe Links Policy
+
+Task 1 - Create a Safe Links Policy <br>
+Step 15: Note the time - wait at least 30 minutes <br>
+
+Task 2 - Validate the Safe Links policy and blocked URL functionality <br>
+Ensure you have waited at least 30 minutes before proceeding <br>
