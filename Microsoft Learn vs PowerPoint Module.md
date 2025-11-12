@@ -1,6 +1,6 @@
 # Microsoft Learn vs PowerPoint Module
 
-## MS-102T00 Microsoft 365 Administrator Colection -  https://learn.microsoft.com/en-us/training/courses/ms-102t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide 
+## MS-102T00 Microsoft 365 Administrator Collection -  https://learn.microsoft.com/en-us/training/courses/ms-102t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide 
 
 ### Learning Path 1: Configure your Microsoft 365 tenant - https://learn.microsoft.com/en-us/training/paths/configure-microsoft-365-tenant/
 Configure your Microsoft 365 experience - https://learn.microsoft.com/en-us/training/modules/configure-microsoft-365-experience/ <br>

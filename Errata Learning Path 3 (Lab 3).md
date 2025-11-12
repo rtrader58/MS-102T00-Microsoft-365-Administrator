@@ -1,6 +1,7 @@
 # MS-102T00 Microsoft 365 Administrator - Learning Path 3 Errata (Lab 3)
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE LABS EACH DAY
 ### Note - To see the entire screen ensure you use the full screen view option
+## Learning Path 3 Lab 3:  (~75 Minutes)
 
 ### Exercise 1 - Prepare for Identity Synchronization
 

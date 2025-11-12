@@ -69,7 +69,7 @@ The Apps never showed up on the M365 landing page <br>
 Task 3 - Perform a User-Driven Installation of Microsoft 365 Apps for enterprise <br>
 No Errata <br>
 
-## Learning Path 3 Errata (Lab 3)
+## Learning Path 3 Lab 3:  (~75 Minutes)
 
 ### Exercise 1 - Prepare for Identity Synchronization
 
@@ -101,3 +101,5 @@ Task 5 - Validate the Results of Directory Synchronization <br>
 Step 14: Identify and copy and paste the ID for the research group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
 Step 15: Identify and copy and paste the ID for the research group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
 Step 17: Identify and copy and paste the ID for the Manufacturing group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
+
+
