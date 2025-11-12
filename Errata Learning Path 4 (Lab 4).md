@@ -26,4 +26,40 @@ Step 5: If there is an issue with authentication - choose use code - then check 
 Task 2 - Assign an eligible group to the Global Admin role <br>
 No Errata <br>
 
-Task 3 - Submit a request for the Global Admin role
+Task 3 - Submit a request for the Global Admin role <br>
+Step 4: Follow the step for MFA <br>
+Skip Steps 12 - 17: They were completed in Step 4 <br>
+
+Task 4 - Approve the request for the Global Admin role <br>
+No Errata <br>
+
+### Exercise 3 - PIM Self-Approval
+
+Task 1 - Create an eligible group for the Helpdesk Admin role <br>
+No Errata <br>
+
+Task 2 - Configure the Helpdesk Administrator role for self-activation <br>
+No Errata <br>
+
+Task 3 - Self-activate the Helpdesk Admin role <br>
+Step 3: You will not be required to change password <br>
+Step 4: If prompted respond to the MFA challenge <br>
+
+Task 4 - Verify a PIM notification was issued <br>
+No Errata <br>
+
+### Exercise 4 - PIM Teammate Approval Request
+
+Task 1 - Create an eligible group for the Intune Admin role <br>
+No Errata <br>
+
+Task 2 - Configure the Intune Administrator role to require approval <br>
+No Errata <br>
+
+Task 3 - Submit a request for the Intune Admin role
+Step 3: You will not be required to change password <br>
+Step 4: If prompted respond to the MFA challenge <br>
+
+Task 4 - Approve the request for the Intune Admin role
+Step 8: If prompted respond to the MFA challenge <br>
+Step 18: If prompted respond to the MFA challenge <br>
