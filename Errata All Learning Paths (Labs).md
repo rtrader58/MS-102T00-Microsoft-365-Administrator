@@ -2,7 +2,7 @@
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE LABS EACH DAY
 ### Note - To see the entire screen ensure you use the full screen view option
 
-## Learning Path 1 Lab 1:  (~90 Minutes)
+## Learning Path 1 - Lab 1:  (~90 Minutes)
 
 ### - Exercise 1 - Initialize your Microsoft 365 Tenant
 
@@ -28,7 +28,7 @@ Step 5: Paste as is - you will not need to change anything <br>
 Step 29: Click Continue until the MX Records (1) turns into a chackmark <br>
 Step 30: Click Continue until the MX Records (1) turns into a chackmark <br>
 
-## Learning Path 2 Lab 2:  (~100 Minutes)
+## Learning Path 2 - Lab 2:  (~100 Minutes)
 
 ### Exercise 1 - Manage roles and role groups
 
@@ -69,7 +69,7 @@ The Apps never showed up on the M365 landing page <br>
 Task 3 - Perform a User-Driven Installation of Microsoft 365 Apps for enterprise <br>
 No Errata <br>
 
-## Learning Path 3 Lab 3:  (~75 Minutes)
+## Learning Path 3 - Lab 3:  (~75 Minutes)
 
 ### Exercise 1 - Prepare for Identity Synchronization
 
@@ -102,7 +102,7 @@ Step 14: Identify and copy and paste the ID for the research group in Step 13. I
 Step 15: Identify and copy and paste the ID for the research group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
 Step 17: Identify and copy and paste the ID for the Manufacturing group in Step 13. It is easier if you paste the command in Notepad then replace the ID <br>
 
-## Learning Path 4 Lab 4:  (~75 Minutes)
+## Learning Path 4 - Lab 4:  (~75 Minutes)
 
 ### Exercise 1 - Manage secure user access
 
@@ -165,7 +165,7 @@ Task 4 - Approve the request for the Intune Admin role
 Step 8: If prompted respond to the MFA challenge <br>
 Step 18: If prompted respond to the MFA challenge <br>
 
-## Learning Path 5 Lab 5: (~90 Minutes)
+## Learning Path 5 - Lab 5: (~90 Minutes)
 
 ### Exercise 1 - Implement a Safe Attachments policy
 
@@ -180,7 +180,7 @@ Step 15: Note the time - wait at least 30 minutes <br>
 Task 2 - Validate the Safe Links policy and blocked URL functionality <br>
 Ensure you have waited at least 30 minutes before proceeding <br>
 
-## Learning Path 6 Lab 6: (~120 Minutes)
+## Learning Path 6 - Lab 6: (~120 Minutes)
 
 ### Exercise 1 - Prepare for Alert Policies
 
@@ -249,7 +249,7 @@ No Errata  <br>
 Task 6: Disable Multifactor Authentication for the attack simulation admin <br>
 Step 4 - 5: Quick steps is depricated - Click Disable at the top of the list - Click Disable in the Pop-up <br>
 
-## Learning Path 7 Lab 7: (~20 Minutes)
+## Learning Path 7 - Lab 7: (~20 Minutes)
 
 ### Exercise 1 - Configure In-place Archiving and Retention Policies
 
@@ -263,7 +263,7 @@ Task 3 - Create an email retention policy for all users <br>
 Step 2: Click on the ... to select Disable <br>
 Step 3: Click on the ... to see Enable <br>
 
-## Learning Path 8 Lab 8: (~25 Minutes)
+## Learning Path 8 - Lab 8: (~25 Minutes)
 
 ### Exercise 1 - Manage DLP Policies
 
@@ -281,7 +281,7 @@ No Errata <br>
 Task 2 - Test the second DLP Policy rule <br>
 No Errata <br>
 
-## Learning Path 9 Lab 9: (~60 Minutes)
+## Learning Path 9 - Lab 9: (~60 Minutes)
 
 ### Exercise 1 - Implement Sensitivity labels with Microsoft Purview Information Protection
 
