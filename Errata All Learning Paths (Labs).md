@@ -1,4 +1,4 @@
-# MS-102T00 Microsoft 365 Administrator - Errata All Learning Paths (Labs)
+# MS-102T00 Microsoft 365 Administrator - Errata All Learning Paths (All Labs)
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE LABS EACH DAY
 ### Note - To see the entire screen ensure you use the full screen view option
 
