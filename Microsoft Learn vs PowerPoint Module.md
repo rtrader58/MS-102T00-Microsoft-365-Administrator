@@ -59,7 +59,7 @@ Explore threat intelligence in Microsoft Defender XDR - https://learn.microsoft.
 Implement app protection by using Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/implement-app-protection-use-microsoft-defender-cloud-apps/ <br>
 Implement endpoint protection by using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/implement-endpoint-protection-use-microsoft-defender-endpoint/ <br>
 Implement threat protection by using Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/training/modules/implement-threat-protection-use-microsoft-defender-office-365/ <br>
-#### Learning Path 6: Implement threat protection (~120 Minutes)
+#### Learning Path 6 Lab: Implement threat protection (~120 Minutes)
 Exercise 1: Prepare for Alert Policies <br>
 Exercise 2: Implement a Mailbox Permission Alert <br>
 Exercise 3: Implement a SharePoint Permission Alert <br>
