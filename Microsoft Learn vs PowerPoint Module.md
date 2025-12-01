@@ -28,7 +28,7 @@ Explore identity synchronization - https://learn.microsoft.com/en-us/training/mo
 Prepare for identity synchronization to Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/prepare-synchronization-microsoft-365/ <br>
 Implement directory synchronization tools - https://learn.microsoft.com/en-us/training/modules/implement-synchronization-tools/ <br>
 Manage synchronized identities - https://learn.microsoft.com/en-us/training/modules/manage-synchronized/ <br>
-#### ### Learning Path 3 Lab: Manage identity synchronization (~75 Minutes)
+### Learning Path 3 Lab: Manage identity synchronization (~75 Minutes)
 Exercise 1: Prepare for identity synchronization <br>
 Exercise 2: Implement identity synchronization  <br>
 
