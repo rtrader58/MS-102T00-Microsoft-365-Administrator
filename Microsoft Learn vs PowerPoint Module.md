@@ -11,6 +11,7 @@ Configure client connectivity to Microsoft 365 - https://learn.microsoft.com/en-
 #### Learning Path 1 Lab: Configure your Microsoft 365 tenant (~90 Minutes)
 Exercise 1: Initialize your lab environment <br>
 Exercise 2: Manage users and groups <br>
+Exercise 3: Create a custom domain name <br>
 
 ### Learning Path 2: Manage your Microsoft 365 tenant - https://learn.microsoft.com/en-us/training/paths/manage-your-microsoft-365-tenant/
 Manage permissions, roles, and role groups in Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/manage-roles-groups-microsoft-365/ <br>
