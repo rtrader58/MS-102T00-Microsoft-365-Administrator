@@ -3,6 +3,7 @@
 Interface Technical Training - http://www.interfacett.com<br>
 MS-102 Exam Objectives - https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-102/<br>
 MS-102 Exam study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102 <br>
+
 Lab environment - https://interfacett.learnondemand.net<br>
 Microsoft Master Github lab repository - https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials <br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
