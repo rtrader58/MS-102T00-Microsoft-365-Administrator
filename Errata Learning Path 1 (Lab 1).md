@@ -8,7 +8,7 @@
 Task 1- Set up Adatum's Organization Profile <br>
 Step 5: Use the copy and paste method instructor showed (Type clipboard text option) <br> <br>
 Skip Steps 8 - 11: <br>
-Step 12: Welcome to Copilot Chat - the MA initials will not apear until you launch the Admin Center - follow the steps to setup an Authenticator App <br>
+Step 12: Welcome to Copilot Chat - to launch the admin center click on Apps and more - If the Admin center is not an option type Admin in the search box and select - the MA initials will not apear until you launch the Admin Center - follow the steps to setup an Authenticator App <br>
 Skip Steps 15 - 18: <br>
 
 ### Exercise 2 - Manage Users and Groups
